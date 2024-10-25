@@ -1,0 +1,75 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,26-03-2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,131,5,133,4,Kolkata Knight Riders,Wickets,6,Umesh Yadav
+2,27-03-2022,"Brabourne Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,Field,Group,177,5,179,6,Delhi Capitals,Wickets,4,Kuldeep Yadav
+3,27-03-2022,"DY Patil Stadium, Mumbai",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Field,Group,205,2,208,5,Punjab Kings,Wickets,5,Odean Smith
+4,28-03-2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Field,Group,158,6,161,5,Gujarat Titans,Wickets,5,Mohammed Shami
+5,29-03-2022,"MCA International Stadium, Pune",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,210,6,149,7,Rajasthan Royals,Runs,61,Sanju Samson
+6,30-03-2022,"DY Patil Stadium, Mumbai",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,128,10,132,7,Royal Challengers Bangalore,Wickets,3,Wanindu Hasaranga
+7,31-03-2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Field,Group,210,7,211,4,Lucknow Super Giants,Wickets,6,Evin Lewis
+8,01-04-2022,"Wankhede Stadium, Mumbai",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,137,10,141,4,Kolkata Knight Riders,Wickets,6,Umesh Yadav
+9,02-04-2022,"DY Patil Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,193,8,170,8,Rajasthan Royals,Runs,23,Jos Buttler
+10,02-04-2022,"MCA International Stadium, Pune",Gujarat Titans,Delhi Capitals,Delhi Capitals,Field,Group,171,6,157,9,Gujarat Titans,Runs,14,Lockie Ferguson
+11,03-04-2022,"Brabourne Stadium, Mumbai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field,Group,180,8,126,10,Punjab Kings,Runs,54,Liam Livingstone
+12,04-04-2022,"DY Patil Stadium, Mumbai",Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,169,7,157,9,Lucknow Super Giants,Runs,12,Avesh Khan
+13,05-04-2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,169,3,173,6,Royal Challengers Bangalore,Wickets,4,Dinesh Karthik
+14,06-04-2022,"MCA International Stadium, Pune",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,161,4,162,5,Kolkata Knight Riders,Wickets,5,Pat Cummins
+15,07-04-2022,"DY Patil Stadium, Mumbai",Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Field,Group,149,3,155,4,Lucknow Super Giants,Wickets,6,Quinton de Kock
+16,08-04-2022,"Brabourne Stadium, Mumbai",Punjab Kings,Gujarat Titans,Gujarat Titans,Field,Group,189,9,190,4,Gujarat Titans,Wickets,6,Shubman Gill
+17,09-04-2022,"DY Patil Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,154,7,155,2,Sunrisers Hyderabad,Wickets,8,Abhishek Sharma
+18,09-04-2022,"MCA International Stadium, Pune",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,151,6,152,3,Royal Challengers Bangalore,Wickets,7,Anuj Rawat
+19,10-04-2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,215,5,171,10,Delhi Capitals,Runs,44,Kuldeep Yadav
+20,10-04-2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Field,Group,165,6,162,8,Rajasthan Royals,Runs,3,Yuzvendra Chahal
+21,11-04-2022,"DY Patil Stadium, Mumbai",Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,162,7,168,2,Sunrisers Hyderabad,Wickets,8,Kane Williamson
+22,12-04-2022,"DY Patil Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,216,4,193,9,Chennai Super Kings,Runs,23,Shivam Dube
+23,13-04-2022,"MCA International Stadium, Pune",Punjab Kings,Mumbai Indians,Mumbai Indians,Field,Group,198,5,186,9,Punjab Kings,Runs,12,Mayank Agarwal
+24,14-04-2022,"DY Patil Stadium, Mumbai",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Field,Group,192,4,155,9,Gujarat Titans,Runs,37,Hardik Pandya
+25,15-04-2022,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,175,8,176,3,Sunrisers Hyderabad,Wickets,7,Rahul Tripathi
+26,16-04-2022,"Brabourne Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field,Group,199,4,181,9,Lucknow Super Giants,Runs,18,K. L. Rahul
+27,16-04-2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,Group,189,5,173,7,Royal Challengers Bangalore,Runs,16,Dinesh Karthik
+28,17-04-2022,"DY Patil Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,151,10,152,3,Sunrisers Hyderabad,Wickets,7,Umran Malik
+29,17-04-2022,"MCA International Stadium, Pune",Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field,Group,169,5,170,7,Gujarat Titans,Wickets,3,David Miller
+30,18-04-2022,"Brabourne Stadium, Mumbai",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,217,5,210,10,Rajasthan Royals,Runs,7,Yuzvendra Chahal
+31,19-04-2022,"DY Patil Stadium, Mumbai",Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field,Group,181,6,163,8,Royal Challengers Bangalore,Runs,18,Faf du Plessis
+32,20-04-2022,"Brabourne Stadium, Mumbai",Punjab Kings,Delhi Capitals,Delhi Capitals,Field,Group,115,10,119,1,Delhi Capitals,Wickets,9,Kuldeep Yadav
+33,21-04-2022,"DY Patil Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,155,7,156,7,Chennai Super Kings,Wickets,3,Mukesh Choudhary
+34,22-04-2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,Group,222,2,207,8,Rajasthan Royals,Runs,15,Jos Buttler
+35,23-04-2022,"DY Patil Stadium, Mumbai",Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Bat,Group,156,9,148,8,Gujarat Titans,Runs,8,Rashid Khan
+36,23-04-2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,68,10,72,1,Sunrisers Hyderabad,Wickets,9,Marco Jansen
+37,24-04-2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field,Group,168,6,132,8,Lucknow Super Giants,Runs,36,K. L. Rahul
+38,25-04-2022,"Wankhede Stadium, Mumbai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field,Group,187,4,176,6,Punjab Kings,Runs,11,Shikhar Dhawan
+39,26-04-2022,"MCA International Stadium, Pune",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,144,8,115,10,Rajasthan Royals,Runs,29,Riyan Parag
+40,27-04-2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Field,Group,195,6,199,5,Gujarat Titans,Wickets,5,Umran Malik
+41,28-04-2022,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,146,9,150,6,Delhi Capitals,Wickets,4,Kuldeep Yadav
+42,29-04-2022,"MCA International Stadium, Pune",Lucknow Super Giants,Punjab Kings,Punjab Kings,Field,Group,153,8,133,8,Lucknow Super Giants,Runs,20,Krunal Pandya
+43,30-04-2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Bat,Group,170,6,174,4,Gujarat Titans,Wickets,6,Rahul Tewatia
+44,30-04-2022,"DY Patil Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,158,6,161,5,Mumbai Indians,Wickets,5,Suryakumar Yadav
+45,01-05-2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Bat,Group,195,3,189,7,Lucknow Super Giants,Runs,6,Mohsin Khan
+46,01-05-2022,"MCA International Stadium, Pune",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,202,2,189,6,Chennai Super Kings,Runs,13,Ruturaj Gaikwad
+47,02-05-2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,152,5,158,3,Kolkata Knight Riders,Wickets,7,Rinku Singh
+48,03-05-2022,"DY Patil Stadium, Mumbai",Gujarat Titans,Punjab Kings,Gujarat Titans,Bat,Group,143,8,145,2,Punjab Kings,Wickets,8,Kagiso Rabada
+49,04-05-2022,"MCA International Stadium, Pune",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,173,8,160,8,Royal Challengers Bangalore,Runs,13,Harshal Patel
+50,05-05-2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,207,3,186,8,Delhi Capitals,Runs,21,David Warner
+51,06-05-2022,"Brabourne Stadium, Mumbai",Mumbai Indians,Gujarat Titans,Gujarat Titans,Field,Group,177,6,172,5,Mumbai Indians,Runs,5,Tim David
+52,07-05-2022,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,Punjab Kings,Bat,Group,189,5,190,4,Rajasthan Royals,Wickets,6,Yashasvi Jaiswal
+53,07-05-2022,"MCA International Stadium, Pune",Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,176,7,101,10,Lucknow Super Giants,Runs,75,Avesh Khan
+54,08-05-2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Bat,Group,192,3,125,10,Royal Challengers Bangalore,Runs,67,Wanindu Hasaranga
+55,08-05-2022,"DY Patil Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,Group,208,6,117,10,Chennai Super Kings,Runs,91,Devon Conway
+56,09-05-2022,"DY Patil Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,165,9,113,10,Kolkata Knight Riders,Runs,52,Jasprit Bumrah
+57,10-05-2022,"MCA International Stadium, Pune",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Bat,Group,144,4,82,10,Gujarat Titans,Runs,62,Shubman Gill
+58,11-05-2022,"DY Patil Stadium, Mumbai",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,Group,160,6,161,2,Delhi Capitals,Wickets,8,Mitchell Marsh
+59,12-05-2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,97,10,103,5,Mumbai Indians,Wickets,5,Daniel Sams
+60,13-05-2022,"Brabourne Stadium, Mumbai",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,209,9,155,9,Punjab Kings,Runs,54,Jonny Bairstow
+61,14-05-2022,"MCA International Stadium, Pune",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat,Group,177,6,123,8,Kolkata Knight Riders,Runs,54,Andre Russell
+62,15-05-2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Bat,Group,133,5,137,3,Gujarat Titans,Wickets,7,Wriddhiman Saha
+63,15-05-2022,"Brabourne Stadium, Mumbai",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Bat,Group,178,6,154,8,Rajasthan Royals,Runs,24,Trent Boult
+64,16-05-2022,"DY Patil Stadium, Mumbai",Delhi Capitals,Punjab Kings,Punjab Kings,Field,Group,159,7,142,9,Delhi Capitals,Runs,17,Shardul Thakur
+65,17-05-2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,193,6,190,7,Sunrisers Hyderabad,Runs,3,Rahul Tripathi
+66,18-05-2022,"DY Patil Stadium, Mumbai",Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Bat,Group,210,0,208,8,Lucknow Super Giants,Runs,2,Quinton de Kock
+67,19-05-2022,"Wankhede Stadium, Mumbai",Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Bat,Group,168,5,170,2,Royal Challengers Bangalore,Wickets,8,Virat Kohli
+68,20-05-2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,150,6,151,5,Rajasthan Royals,Wickets,5,Ravichandran Ashwin
+69,21-05-2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,Field,Group,159,7,160,5,Mumbai Indians,Wickets,5,Jasprit Bumrah
+70,22-05-2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Bat,Group,157,8,160,5,Punjab Kings,Wickets,5,Harpreet Brar
+71,24-05-2022,"Eden Gardens, Kolkata",Rajasthan Royals,Gujarat Titans,Gujarat Titans,Field,Playoff,188,6,191,3,Gujarat Titans,Wickets,7,David Miller
+72,25-05-2022,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field,Playoff,207,4,193,6,Royal Challengers Bangalore,Runs,14,Rajat Patidar
+73,27-05-2022,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Playoff,157,8,161,3,Rajasthan Royals,Wickets,7,Jos Buttler
+74,29-05-2022,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Bat,Final,130,9,133,3,Gujarat Titans,Wickets,7,Hardik Pandya

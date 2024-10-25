@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Data Charts</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Charts for {{ filename }}</h1>
+        <h2>Summary Statistics</h2>
+        <div class="table-responsive">
+            {{ summary_html | safe }}
+        </div>
+
+        <h2>Charts</h2>
+        <h3>Closing Price Over Time</h3>
+        <img src="{{ line_plot_url }}" alt="Line Plot">
+        <h3>Volume Over Time</h3>
+        <img src="{{ volume_plot_url }}" alt="Volume Plot">
+        <h3>Closing Price Distribution</h3>
+        <img src="{{ histogram_plot_url }}" alt="Histogram">
+        <h3>Moving Average Plot</h3>
+        <img src="{{ moving_avg_plot_url }}" alt="Moving Average Plot">
+
+        <h2>Filter Data by Date</h2>
+        <ul class="list-group">
+            {% for date in unique_dates %}
+                <li class="list-group-item">
+                    <a href="{{ url_for('filter_data', date=date, filename=filename) }}">{{ date }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+
+        <a href="{{ url_for('index') }}" class="btn btn-secondary mt-5">Upload Another File</a>
+    </div>
+</body>
+</html>
